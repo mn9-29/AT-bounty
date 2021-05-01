@@ -18,44 +18,6 @@ function missionstart()
 		chossenCoords = Config.Coordenates.coords
 	elseif randomNCoords == 2 then
 		chossenCoords = Config.Coordenates.coords2
-	--[[elseif randomNCoords == 3 then
-		chossenCoords = Config.Coordenates.coords3
-	elseif randomNCoords == 4 then
-		chossenCoords = Config.Coordenates.coords4
-	elseif randomNCoords == 5 then
-		chossenCoords = Config.Coordenates.coords5
-	elseif randomNCoords == 6 then
-		chossenCoords = Config.Coordenates.coords6
-	elseif randomNCoords == 7 then
-		chossenCoords = Config.Coordenates.coords7
-	elseif randomNCoords == 8 then
-		chossenCoords = Config.Coordenates.coords8
-	elseif randomNCoords == 9 then
-		chossenCoords = Config.Coordenates.coords9
-	elseif randomNCoords == 10 then
-		chossenCoords = Config.Coordenates.coords10
-	elseif randomNCoords == 11 then
-		chossenCoords = Config.Coordenates.coords11
-	elseif randomNCoords == 12 then
-		chossenCoords = Config.Coordenates.coords12
-	elseif randomNCoords == 13 then
-		chossenCoords = Config.Coordenates.coords13
-	elseif randomNCoords == 14 then
-		chossenCoords = Config.Coordenates.coords14
-	elseif randomNCoords == 15 then
-		chossenCoords = Config.Coordenates.coords15
-	elseif randomNCoords == 16 then
-		chossenCoords = Config.Coordenates.coords16
-	elseif randomNCoords == 17 then
-		chossenCoords = Config.Coordenates.coords17
-	elseif randomNCoords == 18 then
-		chossenCoords = Config.Coordenates.coords18
-	elseif randomNCoords == 19 then
-		chossenCoords = Config.Coordenates.coords19
-	elseif randomNCoords == 20 then
-		chossenCoords = Config.Coordenates.coords20
-	elseif randomNCoords == 21 then
-		chossenCoords = Config.Coordenates.coords21]]
 	end
 
 			  

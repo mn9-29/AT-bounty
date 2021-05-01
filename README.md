@@ -2,7 +2,6 @@
 vorpscript
 ## Requirement
  AT-notify
-
  
 ## How to install
 
@@ -10,9 +9,7 @@ vorpscript
 * Add ```ensure AT-bounty``` to your ```server.cfg``` file
 * Edit ```AT-bounty/config.lua``` to add new coords, peds, weapons, change prices, xp and language
 
-## development by Risk
+## It has been modified by Risk
 
 ## thx for
-(GameSnoop)[https://github.com/GameSnoop] For his script ATrp_bountyhunting
-
-(Artzalez)[https://github.com/DevBiiTz] 
+(xmau) [https://github.com/GameSnoop] For his script xmau_bounty
