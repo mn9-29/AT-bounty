@@ -117,14 +117,14 @@ function missionstart()
 						x = x - 1
 						count[k] = nil
 						if x == 0 then
-							exports['AT-notify']:SendAlert('succes', 'لقد نجحت بالمهمة', 5500)
+							exports['AT-notify']:SendAlert('succes', 'You succeeded in the mission', 5500)
 							TriggerServerEvent('AT_bountyhunting:AddSomeMoney')
 							stopmission()
 						end
 					end
 				end
 				if IsPlayerDead(pl) then
-					exports['AT-notify']:SendAlert('error', 'لقد فشلت بالمهمة..', 5500)
+					exports['AT-notify']:SendAlert('error', 'You have failed the mission..', 5500)
 					stopmission()
 				end
 			end
