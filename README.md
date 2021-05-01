@@ -1,6 +1,9 @@
 # AT-bounty
 vorpscript
 ## Requirement
+ AT-notify
+
+ 
 ## How to install
 
 * Copy and paste ```AT-bounty``` folder to ```resources```
