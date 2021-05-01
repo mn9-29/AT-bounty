@@ -15,4 +15,4 @@ vorpscript
 ## thx for
 (GameSnoop)[https://github.com/GameSnoop] For his script ATrp_bountyhunting
 
-(Artzalez)[https://github.com/DevBiiTz] For create this script with me
+(Artzalez)[https://github.com/DevBiiTz] 
